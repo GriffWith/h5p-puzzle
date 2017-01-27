@@ -1,0 +1,21 @@
+{
+  "title": "Puzzle",
+  "description": "Create a puzzle out of your own images",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Gunhild and Svein-Tore Griff With",
+  "license": "MIT",
+  "machineName": "H5P.Puzzle",
+  "preloadedJs": [
+    {
+      "path": "puzzle.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "puzzle.css"
+    }
+  ]
+}

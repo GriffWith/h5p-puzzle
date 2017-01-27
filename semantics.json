@@ -1,0 +1,28 @@
+[
+  {
+    "label": "Image",
+    "name": "image",
+    "type": "image",
+    "importance": "high",
+    "optional": true,
+    "description": "Image that will be used to create the puzzle pieces."
+  },
+  {
+    "label": "Number of pieces horizontally",
+    "name": "numCols",
+    "type": "number",
+    "min": 1,
+    "default": 3,
+    "importance": "low",
+    "description": "Number of \"columns\" to cut the puzzle into."
+  },
+  {
+    "label": "Number of pieces vertically",
+    "name": "numRows",
+    "type": "number",
+    "min": 1,
+    "default": 3,
+    "importance": "low",
+    "description": "Number of \"rows\" to cut the puzzle into."
+  }
+]

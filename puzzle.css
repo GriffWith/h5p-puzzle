@@ -1,0 +1,9 @@
+.h5p-puzzle {
+  width: 100%;
+}
+
+.h5p-puzzle-piece {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
